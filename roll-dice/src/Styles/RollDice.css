@@ -1,0 +1,21 @@
+.RollDice-rollBtn {
+  background-color: #bfd8b8;
+  border-radius: 0.5em;
+  border: none;
+  font-size: 2rem;
+  padding: 1em 2.5em;
+  transition: all 0.5s ease-in;
+}
+
+.RollDice-rollBtn:hover {
+  background-color: #e7eab5;
+  cursor: grab;
+}
+
+.RollDice-dices {
+  margin: 0 auto;
+  display: flex;
+  width: 50%;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
