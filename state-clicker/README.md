@@ -15,9 +15,9 @@ Click a button as many times you need to get number 7!
 
 ### Screenshot
 
-![preview1](./public/preview1.png)
+![preview1](./public/preview1.PNG)
 
-![preview2](./public/preview2.png)
+![preview2](./public/preview2.PNG)
 
 ### Links
 
