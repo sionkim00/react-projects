@@ -1,0 +1,11 @@
+.LotteryBall p {
+  background-color: orange;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 0.5em;
+  font-size: 1.5em;
+  font-weight: 600;
+  min-height: 1.5em;
+  min-width: 1.5em;
+  padding: 2em;
+}
