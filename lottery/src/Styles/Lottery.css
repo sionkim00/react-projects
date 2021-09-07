@@ -11,10 +11,10 @@
   font-size: 3rem;
 }
 .Lottery-generateBtn {
-  padding: 1em 2.5em;
+  background-color: royalblue;
+  border-radius: 7%;
+  border: none;
   font-size: 1.5rem;
   margin-top: 2em;
-  background-color: royalblue;
-  border: none;
-  border-radius: 7%;
+  padding: 1em 2.5em;
 }
